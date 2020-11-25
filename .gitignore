@@ -1,3 +1,7 @@
 build
 .vscode
+square_clnt.c
+square_svc.c
+square_xdr.c
+square.h
 
